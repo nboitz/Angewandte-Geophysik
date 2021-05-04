@@ -10,4 +10,5 @@ dependencies:
   - bokeh
   - scipy
   - pillow
+  - PIL
   - matplotlib
