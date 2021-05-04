@@ -5,9 +5,9 @@ dependencies:
   - numpy
   - psutil
   - toolz
-  - matplotlib
   - dill
   - partd
   - bokeh
   - scipy
   - pillow
+  - matplotlib
