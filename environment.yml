@@ -10,4 +10,4 @@ dependencies:
   - bokeh
   - scipy
   - pillow
-  - matplotlib=3.3.2
+  - matplotlib=3.3.3
